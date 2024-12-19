@@ -49,4 +49,3 @@ def test_products_list_(products_list):
 
 def test__str__(category_01_):
     assert str(category_01_) == "оборудование, количество продуктов: 7 шт."
-
